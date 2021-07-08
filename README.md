@@ -1,1 +1,1 @@
-# knowlege
+Sample code Linear Regression.
